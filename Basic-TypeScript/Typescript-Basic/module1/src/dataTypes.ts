@@ -36,3 +36,6 @@ let cordinators : [number,number]=[1,5];
 let ageName : [number,string,boolean]=[50,'js',true];
 
 
+
+
+
