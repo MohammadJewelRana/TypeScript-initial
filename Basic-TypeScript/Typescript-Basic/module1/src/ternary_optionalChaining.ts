@@ -12,7 +12,7 @@ console.log(age);
 //     console.log('Not adult'); 
 // }
 
-// const isAdult =age>=18 ? 'adult' : 'not';
+const isAdult = age>=18 ? 'adult' : 'not';
 
 
 // //nullish

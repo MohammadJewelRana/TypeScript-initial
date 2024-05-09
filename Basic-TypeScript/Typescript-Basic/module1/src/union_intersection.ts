@@ -1,7 +1,7 @@
 {
   //union
   //hoy eta nahoy oita
-  type Frontend = "fakibaz" | "junior developer";
+  type Frontend = "new developer" | "senior developer";
   type FullStack = "Frontend" | "Expert";
   type Developer = Frontend | FullStack;
   const newDeveloper: Frontend = "junior developer";
